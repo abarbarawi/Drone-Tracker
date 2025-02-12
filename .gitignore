@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv
+venv/
+.venv/
+.vscode/
+.idea/
+*.sublime-project
+.pytest_cache
+*.log
+test_code.py
+.env
