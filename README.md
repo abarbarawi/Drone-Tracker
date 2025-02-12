@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ecf8bbbe-7570-42e8-acae-c81c1780583d)🚀 Drone Tracker System
+🚀 Drone Tracker System
 A Django-based Drone Tracker System that allows users to monitor drones, track their flight paths, and retrieve real-time status updates. The system also provides JWT-based authentication for secure access.
 
 📌 Features
