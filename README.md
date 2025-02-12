@@ -32,7 +32,8 @@ python manage.py makemigrations drones
 python manage.py migrate
 python manage.py runserver 8080
 
-🔗 API Endpoints
+🔗 API Endpoints 
+api documentation (https://documenter.getpostman.com/view/17808531/2sAYXCidPD)
 🚁 Drone Management
 Method	Endpoint	Description
 GET	/	Get all drones
